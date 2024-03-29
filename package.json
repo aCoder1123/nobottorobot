@@ -1,0 +1,22 @@
+{
+  "name": "nobottorobot",
+  "version": "1.0.0",
+  "description": "documentation for frc team 1391",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aCoder1123/nobottorobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aCoder1123/nobottorobot/issues"
+  },
+  "homepage": "https://github.com/aCoder1123/nobottorobot#readme",
+  "dependencies": {
+    "firebase": "^10.10.0"
+  }
+}
